@@ -1,0 +1,38 @@
+/****************************************html tag (element) as selectors******************************/
+body{
+  background-color: #dcedc1;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+a{
+  color: 100303;
+}
+/*
+h1{
+  color: #66BFBF;
+}
+*/
+h2{
+  color: #cf7500;
+}
+h3{
+  color: #cf7500;
+}
+/*
+img{
+  background-color: white;
+}
+*/
+/****************************************Class as selectors******************************/
+.heading{
+  color: #303960;
+}
+/****************************************ID as selectors******************************/
+/* #heading3{
+  color:#f4ea8e;
+} */
